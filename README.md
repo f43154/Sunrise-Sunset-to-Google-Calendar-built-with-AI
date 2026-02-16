@@ -8,6 +8,10 @@ Rather than pay or have to deal with the manual/clunky CSV approach, I took this
 - how to build and refine my code with AI
 - how to set up and use Google Calendar API
 
+## How it works
+
+![gif of demo](https://github.com/f43154/Sunrise-Sunset-to-Google-Calendar-built-with-AI/blob/main/demo-gif-compressed.gif)
+
 ## What I did
 It took ~3 hours to go from installing Python onto my computer to successfully running the script that created the sunrise and sunset Google Calendar events for the first time. I spent another 20 minutes debugging and I'm ecstatic to share the final result. 
 
