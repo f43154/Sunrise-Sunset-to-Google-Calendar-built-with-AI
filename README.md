@@ -21,9 +21,9 @@ It took approximately 3 hours to go from installing Python onto my computer to t
 
 I built this using a "human-in-the-loop" AI approach: 
 
-1. **Ideation**: Dictated (aka braindump) the initial concept using Lovable Voice Mode, a la Lazar Jovanovic.
-2. **Infrastructure**: Followed AI-voice-guided instructions to set up a Google Cloud Project and configure Google OAuth.
-3. **Refinement**: When I ran out of credits, I moved to Gemini. I maintained a Product Requirements Document (PRD) to continuously improve the context I provide to the LLM.
+1. **Ideation**: Dictated (aka braindump) the initial concept using Lovable Voice Mode, à la Lazar Jovanovic ([featured Lenny's Podcast](https://www.lennysnewsletter.com/p/getting-paid-to-vibe-code))
+2. **Infrastructure**: Followed AI-voice-guided instructions to set up my Google Cloud Project and configure Google OAuth.
+3. **Refinement**: When I ran out of free credits, I moved to Gemini. I maintained a Product Requirements Document (PRD) to continuously improve the context I provide to the LLM.
 4. **Debugging**: For every error, I asked the AI to explain the break, provide a fix, and update the PRD to ensure the `main.py` remained robust.
 
 **The best part?** I didn't write a single line of manual code. I orchestrated the logic, and the AI handled the syntax.
